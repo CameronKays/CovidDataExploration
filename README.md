@@ -7,7 +7,7 @@ death rates in countries around the world.
 The link to the data source can be found here:
  [Global COVID Data](https://github.com/owid/covid-19-data/tree/master/public/data)
 
-The CovidDataSQLQuery.sql file contains several queries, most of which were utilized
+The [CovidDataSQLQuery](https://github.com/CameronKays/CovidDataExploration/blob/main/CovidDataSQLQuery.sql) file contains several queries, most of which were utilized
 when building the Tableau dashboard, seen below. The goal was to 
 build an interactive dashboard where people can quickly and easily compare infection rates
 around the world.
