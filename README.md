@@ -16,9 +16,9 @@ around the world.
 
 ![](https://github.com/CameronKays/CovidDataExploration/blob/main/CovidTableauDemo.gif)
 
-[Link to Tableau Project](https://public.tableau.com/app/profile/cameron.kays/viz/CovidTableauProfileProject/Dashboard1#1)
+[Check out my Tableau Project](https://public.tableau.com/app/profile/cameron.kays/viz/CovidTableauProfileProject/Dashboard1#1)
 
-## 🔗 Links
+## Find Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](url)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](url-tbd)
 
