@@ -11,10 +11,10 @@ The CovidDataSQLQuery.sql file contains several queries, most of which were util
 when building the Tableau dashboard, seen below. The goal was to 
 build an interactive dashboard where people can quickly and easily compare infection rates
 around the world.
+
 ## Tableau Dashboard Demo 
 
-Insert gif or link to demo
-
+![](https://github.com/CameronKays/CovidDataExploration/blob/main/CovidTableauDemo.gif)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](tbd)
